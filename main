@@ -1,0 +1,3 @@
+import react from 'React';
+
+console.log(react)
